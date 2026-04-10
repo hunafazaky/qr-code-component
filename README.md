@@ -6,9 +6,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
+- [Development](#development)
+  - [Tools](#tools)
+  - [Next Possible Development](#next-possible-development)
 - [Author](#author)
 
 ## Overview
@@ -19,18 +19,18 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 <img src="./assets/images/overview-desktop.webp" height="300" style="margin-right:10px;"> <img src="./assets/images/overview-mobile.webp" height="300">
 
-## My process
+## Development
 
-### Built with
+### Tools
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-### Continued development
+### Next Possible Development
 
 - Create and Remove QR Codes
-- Save created QR Codes
+- Download created QR Codes
 
 ## Author
 
